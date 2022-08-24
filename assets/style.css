@@ -52,7 +52,7 @@ img {
   height: 100vh;
   background-image: url("../images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   display: flex;
   justify-content: center;
   align-items: center;
